@@ -4,9 +4,9 @@
 - Team rank 35/843 at 1st round competition and 19/843 at 2nd round competition
 
 ## Folder Structure
-- `src`: store the source code.
-`src/3classfier.py`: model definition and training for a 3-classfier to classify star, galaxy and qso.
-`src/unnkow_classfier.py`: model definition and training for a 2-classfier to classify an unknown or known.
+- `src`: store the source code. \
+`src/3classfier.py`: model definition and training for a 3-classfier to classify star, galaxy and qso. \
+`src/unnkow_classfier.py`: model definition and training for a 2-classfier to classify an unknown or known. \
 `src/predict.py`: predict class for input spectrum.
 
 ## Requirements
